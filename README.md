@@ -8,12 +8,6 @@
 - 🥅 2020 Main goal: Have more programming practice!
 - ⚡ Fun fact: I love doing sports: cycling, playing football and table tennis. Also I like listening music and play guitar.
 
-### Connect with me:
-
-[<img align="left" alt="denisrybalka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="denisrybalka | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />][email]
-
-<br />
 
 ### Languages and Tools:
 
@@ -31,6 +25,3 @@
 <br />
 
 ---
-
-[instagram]: https://instagram.com/denisrybalka10
-[email]: https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMSvHLzBvZMtRMWDDnhcvRzdjdFwdwpMRMjWmqzrmKDXxmhPlgGXknxXtGZSkrLQvXTXNw
