@@ -1,12 +1,15 @@
 ### Hi there, I'm Denis! 👋
 
+<img align="right" alt="ljh" width="326px" src="https://i.imgur.com/j8gdA3V.jpg" />
+
 ## I'm a college student and JavaScript developer. 
+
 
 - 🔭 I’m currently studying in a college!
 - 🌱 I’m currently learning Node Js.
 - 👯 I’m looking to collaborate with other developers :)
 - 🥅 2020 Main goal: Have more programming practice!
-- ⚡ Fun fact: I love doing sports: cycling, playing football and table tennis. Also I like listening music and play guitar.
+- ⚡ Fun fact: I love doing sports: cycling, playing football and table tennis. Also I like listening music and playing guitar.
 
 
 ### Languages and Tools:
@@ -23,5 +26,3 @@
 
 <br />
 <br />
-
----
