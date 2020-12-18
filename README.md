@@ -1,7 +1,5 @@
 ### Hi there, I'm Denis! 👋
 
-<img align="right" alt="ljh" width="326px" src="https://i.imgur.com/j8gdA3V.jpg" />
-
 ## I'm a college student and JavaScript developer. 
 
 
